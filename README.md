@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Funderbell)](https://github.com/underbell)
 
 ### Software Engineer
-- I am primarily responsible for developing back-end APIs and interested in DevOps and Cloud Architectures.
+- I am a back-end API developer and interested in DevOps and Cloud Architecture.
 
 <div align=center>
   
