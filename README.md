@@ -5,13 +5,13 @@
 
 <div align=center>
   
-[![Medium Badge](http://img.shields.io/badge/-Medium-black?style=social&logo=Medium&link=https://medium.com/@kevin_park)](https://medium.com/@kevin_park)
+[![Medium Badge](http://img.shields.io/badge/Medium-#12100E?style=social&logo=Medium&link=https://medium.com/@kevin_park)](https://medium.com/@kevin_park)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/park-kevin/)](https://www.linkedin.com/in/park-kevin/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-#0077B5?style=social&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/park-kevin/)](https://www.linkedin.com/in/park-kevin/)
 
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=social&logo=Facebook&logoColor=white&link=https://www.facebook.com/underbell.park)](https://www.facebook.com/underbell.park)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-#1877F2?style=social&logo=Facebook&logoColor=white&link=https://www.facebook.com/underbell.park)](https://www.facebook.com/underbell.park)
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=social&logo=Gmail&logoColor=white&link=mailto:underbell.park@gmail.com)](mailto:underbell.park@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=social&logo=Gmail&logoColor=white&link=mailto:underbell.park@gmail.com)](mailto:underbell.park@gmail.com)
 
 <div>
 
