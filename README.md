@@ -4,10 +4,15 @@
 - I am primarily responsible for developing back-end APIs and interested in DevOps and Cloud Architectures.
 
 <div align=center>
-[![Medium Badge](http://img.shields.io/badge/-Medium-black?style=social&logo=Medium&link=https://medium.com/@kevin_park)](https://medium.com/@kevin_park) 
+  
+[![Medium Badge](http://img.shields.io/badge/-Medium-black?style=social&logo=Medium&link=https://medium.com/@kevin_park)](https://medium.com/@kevin_park)
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/park-kevin/)](https://www.linkedin.com/in/park-kevin/)
+
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=social&logo=Facebook&logoColor=white&link=https://www.facebook.com/underbell.park)](https://www.facebook.com/underbell.park)
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=social&logo=Gmail&logoColor=white&link=mailto:underbell.park@gmail.com)](mailto:underbell.park@gmail.com)
+
 <div>
 
 <!--
